@@ -88,4 +88,5 @@ plt.show()
 # RESULTS :
 Thus,a Python program for the modulation and demodulation of FSK is simulated
 ## HARDWARE EXPERIMENT WAVEFORM:
-![WhatsApp Image 2025-04-23 at 18 34 47_9ff07f23](https://github.com/user-attachments/assets/24f13cb0-7edb-4a28-802c-c2398255e4be)
+![WhatsApp Image 2025-04-24 at 11 17 11_293b654f](https://github.com/user-attachments/assets/b49a01ce-8d69-4b6f-915c-2c77907f2a81)
+
